@@ -1,0 +1,67 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# VS Code directory
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.dbmdl
+*.bak
+*.log
+*.pdb
+*.cache
+*.config
+*.sqlite
+*.mdf
+*.ldf
+
+Migrations/
+
+.idea/
+*.sln.iml
+
+ScaffoldingReadMe.txt
+
+publish/
+out/
+
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+*.vspscc
+*.vssscc
+*.tmp
+*.package
+*.symbols.nupkg
+
+Thumbs.db
+ehthumbs.db
+
+_ReSharper*/
+*.DotSettings.user
+**/*.DotSettings.user
+
+.vs/
